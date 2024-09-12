@@ -9,7 +9,6 @@ import Molecules from './pages/Molecules';
 import Molecule from './components/molecules/molecule/Molecule';
 import Projects from './pages/Projects';
 import Project from './components/projects/project/Project';
-import { LanguageProvider } from './contexts/LanguageContext';
 
 const App: React.FC = () => {
   return (
